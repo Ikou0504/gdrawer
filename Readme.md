@@ -2,7 +2,7 @@
 
 ---
 
-**Gdrawer**は、任意の2次元平面における頂点に対して$(k,l)$-MTGを描画するツールです。<br>(MTG:Minimum Weight Tight Graphs)
+**Gdrawer**は、任意の2次元平面における頂点に対して $(k,l)$ -MTGを描画するツールです。<br>(MTG:Minimum Weight Tight Graphs)
 
 #### $(k,l)$-MTGの定義
 
