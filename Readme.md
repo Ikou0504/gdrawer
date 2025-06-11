@@ -10,7 +10,7 @@ $(k,l)$-MTGとは，幾何的グラフ $G=(V,E)$ に対して
 
 - $|E| = k|V| - l$
 - 任意の部分集合 $V' \subseteq V$ について $|E'| \leq k|V'| - l$
-（ここで $E'$ は $V'$ 上の部分グラフの辺集合）
+（ここで $E'$ は $V'$ 上のグラフの辺集合）
 
 を満たす辺長の総和が最小なグラフのことを指します。
 
@@ -25,4 +25,4 @@ A $(k,l)$-MTG is a geometric graph $G=(V, E)$ such that
 
 - $|E| = k|V| - l$
 - For any subset $V' \subseteq V$, $|E'| \leq k|V'| - l$
-(where $E'$ is the set of edges in the subgraph induced by $V'$)
+(where $E'$ is the set of edges induced by $V'$)
