@@ -14,6 +14,9 @@ $(k,l)$-MTGとは，幾何的グラフ $G=(V,E)$ に対して
 
 を満たす辺長の総和が最小なグラフのことを指します。
 
+- 実行方法
+ファイル内の Gdrawer.py を実行することで、$(k,l)$-MTGを描画できます。
+
 ---
 
 / **Gdrawer** is a tool for drawing proximity graphs by placing vertices on a 2D plane.
@@ -26,3 +29,6 @@ A $(k,l)$-MTG is a geometric graph $G=(V, E)$ such that
 - $|E| = k|V| - l$
 - For any subset $V' \subseteq V$, $|E'| \leq k|V'| - l$
 (where $E'$ is the set of edges induced by $V'$)
+
+- How to run
+You can draw $(k,l)$-MTG by running Gdrawer.py in the file.
